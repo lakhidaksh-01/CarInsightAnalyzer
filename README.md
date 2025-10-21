@@ -6,6 +6,14 @@ CarInsight Analyzer is a professional, interactive dashboard built using **Pytho
 
 ---
 
+## 🔹 Screenshots
+
+![Screenshot](./images/img1.png)
+![Screenshot](./images/img2.png)
+
+
+---
+
 ## 🔹 Features
 
 - **Dynamic Filters**:  
